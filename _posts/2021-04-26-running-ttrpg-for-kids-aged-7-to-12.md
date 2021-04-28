@@ -15,7 +15,7 @@ One source for characteristics: [American Camp Association](https://www.acacamps
 
 ## Ages 7-10
 - Beginning to socialize with children their own age.
-	- Age can matter a *lot* at this point. I had a child of this age in a gaming group with an older brother and his friends, and the group dynamics did not work well. Beyond the sibling rivalry, the younger child had difficutly fitting in with the kids who were only 2-3 years older.
+	- Age can matter a *lot* at this point. I had a child of this age in a gaming group with an older brother and his friends, and the group dynamics did not work well. Beyond the sibling rivalry, the younger child had difficulty fitting in with the kids who were only 2-3 years older.
 	- Advice: Try to form groups a close to the same age as possible.
 - They want friendships and enjoy playing together.
 	- Advice: Give them opportunities for inter-character play. You can set up encounters like a bazaar where the players have to form groups to play a game-within-a-game type scenario.
@@ -36,7 +36,7 @@ One source for characteristics: [American Camp Association](https://www.acacamps
 		-   How does your character feel about what just happened or what do they want to know?
 		-   What does your character want to do in response?
 		-   What is your character actually doing?
--   The desire better skills performance are interested in group games and activities.
+-   They desire better skills performance are interested in group games and activities.
 	-   A lot of times kids in this groups see their dice rolls as a reflection of their own abilities. In fact, many times at the end of a session when I ask what they are most proud of doing themselves they tell me about a certain roll.
 	-   Advice: Give them *many* opportunities to roll dice and show off their cool abilities, even if it doesn't drive the story forward. They will enjoy it.
 -   They want everyone to obey stated rules and regulations.
@@ -52,7 +52,7 @@ One source for characteristics: [American Camp Association](https://www.acacamps
 -   Making friends and being accepted by their peers is a growing concern.
 	-   Advice: One thing I've done during end of session wrap up is to go around the room and have everyone say what each person did well.
 -   They want to be together in groups and teams.
-	-   They will assert themselves in new and different ways, but keep in mind that they probaby want to be part of the team.
+	-   They will assert themselves in new and different ways, but keep in mind that they probably want to be part of the team.
 	-   Advice: Same as with the 7-10 age group, this is **not** the time to introduce intra-party conflict. Do not create adversarial situations between the players.
 	-   Advice: When the characters start to fight between themselves, look for as many ways as possible to diffuse the situation. Keep them moving toward a common goal and keep moving that goal if you have to.
 -   They have the patience to work toward short-term goals.
