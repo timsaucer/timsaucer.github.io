@@ -1,7 +1,6 @@
 ---
-layout: default
-title:  Introduction to Essirene
-date:   2021-04-28
+title: Introduction to Essirene
+date: 2021-04-28
 categories: ttrpg
 ---
 
@@ -19,8 +18,4 @@ The world of Essirene has three large continents, Obbariel, Bidumar, and Istredi
 
 ## Geography
 
-<a href="/assets/img/Essirene.jpg">
-	<img src="/assets/img/Essirene.jpg"/>
-</a>
-
-
+![[assets/img/Essirene.jpg]]

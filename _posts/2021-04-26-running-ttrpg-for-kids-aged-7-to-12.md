@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "Running Tabletop Games for Kids Aged 7-12"
 date:   2021-04-26
 categories: ttrpg
