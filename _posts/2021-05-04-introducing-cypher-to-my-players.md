@@ -17,7 +17,9 @@ Here I'm collecting my thoughts on how to introduce the game to my players. I ho
 
 - People are not excited about mechanics. They are excited about the game they're going to play.
 - Explanation of the basic setting. See the notes in [[Introduction to Essirene]].
-
+- This is a *narrative* focused game. We may have some times where there will be combat but the goal is to be heavy in the role playing.
+- Cypher is great for keeping things flowing. It has a few simple mechanics that make for some fun experiences.
+- There are lots of single use magic items!
 
 ## Characters
 - Ask what kinds of characters they would enjoy playing in general.
