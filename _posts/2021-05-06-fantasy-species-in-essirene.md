@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  Fantasy Species in Essirene
-date:   2021-05-06
+title: Fantasy Species in Essirene
+date: 2021-05-06
 categories: ttrpg
 ---
 

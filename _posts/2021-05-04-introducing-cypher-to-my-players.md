@@ -30,7 +30,7 @@ Here I'm collecting my thoughts on how to introduce the game to my players. I ho
 - Your **species** can be Human, Elf, Dwarf, Halfling, or Half-Orc. If you want to play something more exotic or a mix between two species, talk to me about it.
 - Species is not part of Cypher's core system but is something I'm using for this campaign.
 - In Cypher terms, we're treating these as being a second descriptor .
-- See more in [[2021-05-06-fantasy-species-in-essirene]].
+- See more in [[Fantasy Species in Essirene]]. 
 
 ### Type
 
