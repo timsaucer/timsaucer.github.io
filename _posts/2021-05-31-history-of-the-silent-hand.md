@@ -21,7 +21,7 @@ Listening to the wind howl outside, Gersun poked at the fire sending sparks up t
 
 ---
 
-"Now nobody truly knows what happened in that tent. We know not how the Silent Hand snuck so far behind enemy lines. But we do know this. Whether it was divine intervention or their own clever actions, they brought and end to the fear that gripped our soldiers.
+"Now nobody truly knows what happened in that tent. We know not how the Silent Hand snuck so far behind enemy lines. But we do know this. Whether it was divine intervention or their own clever actions, they brought an end to the fear that gripped our soldiers.
 
 "We had been under that curse for so long we had become used to it. Eventually you forget it is there and you cannot remember a time when you didn't have it. When that was lifted from us, it was as being born anew. Strength flowed into our hearts and our arms. We attacked with a vigor and the Obbariel stood no chance.
 
